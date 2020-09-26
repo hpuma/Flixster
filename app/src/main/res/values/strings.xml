@@ -1,3 +1,5 @@
 <resources>
 	<string name="app_name">Flixster</string>
+	<string name="ava">Ava</string>
+	<string name="ivposter">ivPoster</string>
 </resources>
