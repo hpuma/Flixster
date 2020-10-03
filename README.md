@@ -34,13 +34,50 @@ Time spent: 6 hours spent in total
 
 <img src="horizontal_view.gif" width=400 height=200 ><br>
 
+
+
+
+## Flix Part 2
+Time spent: 3 hours spent in total
+### User Stories
+
+
+Overview: A brief overview of the new features
+
+<img src="overview.gif" width=250><br>
+
+
+#### REQUIRED (10pts)
+
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+
+
+
+### App Walkthough GIF
+
+Normal loading of the app
+- The following gif demonstrates that my app loads properly with the new features. (Youtube Player)
+
+
+<img src="showLaunch.gif" width=250><br>
+
+Horizontal View
+- The following gif demonstrates that my app works in the horizontal layout and is able to play the preview video in full screen.
+
+
+<img src="horizontal.gif" width=250><br>
+
+
+
+
 ### Notes
 Describe any challenges encountered while building the app.
 - Setup is a bit different but easy to follow along.
 - Instructions were clear and straight to the point.
 - Became more familiar with terminology.
 
-### Open-source libraries used
 
+### Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Androids
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
