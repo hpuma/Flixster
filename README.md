@@ -66,7 +66,7 @@ Horizontal View
 - The following gif demonstrates that my app works in the horizontal layout and is able to play the preview video in full screen.
 
 
-<img src="horizontal.gif" width=250><br>
+<img src="horizontal.gif" width=400 height=200><br>
 
 
 
